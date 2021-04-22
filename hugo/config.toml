@@ -1,4 +1,4 @@
-baseURL = "https://gitee.com/zhangyangzhuoyue/xhz.git/"
+baseURL = "https://zhangyangzhuoyue.gitee.io/xhz/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "dream"
