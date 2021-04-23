@@ -1,0 +1,6 @@
+[submodule "hugo/themes/hugo-product-launch"]
+	path = hugo/themes/hugo-product-launch
+	url = https://gitee.com/zhangyangzhuoyue/hugo-product-launch.git
+[submodule "hugo/themes/zz"]
+	path = hugo/themes/zz
+	url = https://gitee.com/zhangyangzhuoyue/hugo-theme-dimension.git
