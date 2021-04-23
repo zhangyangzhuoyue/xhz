@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://zhangyangzhuoyue.gitee.io/xhz/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "zz"
